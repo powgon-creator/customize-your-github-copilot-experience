@@ -58,6 +58,25 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "rest-apis-with-fastapi",
+      "title": "REST APIs with FastAPI",
+      "description": "Build a book collection API using FastAPI, Pydantic models, and RESTful CRUD routes.",
+      "path": "assignments/rest-apis-with-fastapi",
+      "dueDate": "2026-10-07",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Python Dependencies",
+          "file": "requirements.txt",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
