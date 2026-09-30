@@ -77,6 +77,25 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "using-web-apis-with-python",
+      "title": "Using Web APIs with Python",
+      "description": "Send HTTP requests and read JSON data from a public API using Python.",
+      "path": "assignments/using-web-apis-with-python",
+      "dueDate": "2026-10-07",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Python Dependencies",
+          "file": "requirements.txt",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
